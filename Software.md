@@ -1,10 +1,14 @@
 ## Usage
 
+***
+
 ## Profiles
-* Every supported game can have one or more profiles which define how the Actuators should move. 
-* You can have a profile for every Car/Road combination which you like.
-* Right click and you can copy an existing one, delete or activate it.
-* Left Click on it and you can rename it 
+Every supported game can have one or more profiles which define how the Actuators should move. 
+You can have a profile for every Car/Road combination which you like.
+Right click and you can copy an existing one, delete or activate it.
+Left Click on it and you can rename it 
+
+***
 
 ## Effects
 _**Tactile Effect**_ sends Data to a Shaker or buttkicker
@@ -17,6 +21,9 @@ _**Roll Effect**_ The two actuators on the left go down (up) and the 2 on the ri
 
 _**Rumble(all)**_ Data like RPM will be available on all 4 actuators as vibrations 
 
-### Add Effect
+
+***
+
+## **Add Effect**
 Right click on your profile and choose Add Effect
 
