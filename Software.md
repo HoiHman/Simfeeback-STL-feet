@@ -3,7 +3,7 @@
 ## Profiles
 * Every supported game can have one or more profiles which define how the Actuators should move. 
 * You can have a profile for every Car/Road combination which you like.
-* Right click on one and you can copy an existing one, delete or activate it.
+* Right click and you can copy an existing one, delete or activate it.
 * Left Click on it and you can rename it 
 
 ## Effects
