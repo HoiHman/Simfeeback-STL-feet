@@ -23,9 +23,24 @@ _**Rumble(all)**_ Data like RPM will be available on all 4 actuators as vibratio
 
 
 ***
-_**Example Effect and description of Values**_
+_**Example Effect and description of Values**_ 
 
 ![Heave Effect](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/HeaveEffect.png)
+
+* Linear - if checked its a lot rougher :)
+* Name - Name of the Effect (Heave)
+* Telemetry Key - Choose the Key which will be used to create the Effect  (VertAccel)
+* Min Position - Percentage used of the way the actuator can move (-100) / Heave uses ~22 Percent of the Actuator if the value -3 is reached    
+* Max Position - Percentage used of the way the actuator can move (100) / Heave uses ~22 Percent of the Actuator if the value 3 is reached
+* Position Interval - Interval which Position is divided (20)
+* Min. Power - 
+* Max. Power
+* Power Interval
+* Enabled
+* Mute
+* Smoothing
+* Controller ID.
+* Intensity
 
 ## **Add Effect**
 Right click on your profile and choose Add Effect -> Choose the one you like ..
