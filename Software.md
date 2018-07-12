@@ -23,7 +23,10 @@ _**Rumble(all)**_ Data like RPM will be available on all 4 actuators as vibratio
 
 
 ***
+_**Example Effect and description of Values**_
+
+![Heave Effect](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/HeaveEffect.png)
 
 ## **Add Effect**
-Right click on your profile and choose Add Effect
+Right click on your profile and choose Add Effect -> Choose the one you like ..
 
