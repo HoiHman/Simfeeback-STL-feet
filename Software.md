@@ -1,4 +1,5 @@
-## Usage
+## Getting started
+First you have to flash a supplied Hex file to the Arduino which can communicate with the software 
 
 ***
 
