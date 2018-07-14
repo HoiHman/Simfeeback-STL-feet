@@ -5,7 +5,7 @@
 #Browse to the hex file you wanna upload (for example ACServo_Leonardo_00_07_05.hex) and press upload
 
 === Nothing moves after first installation or update of simfeedback ===
-#Check Simfeedback.xml -> change value to the correct Arduino comPort (check device manager)
+#Check Simfeedback.xml -> change value comPort to the correct Arduino comPort (check device manager)
  </MotorList>
       <comPort>1</comPort>
       <baudRate>460800</baudRate>
