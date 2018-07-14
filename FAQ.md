@@ -1,5 +1,5 @@
 ## Nothing moves after first installation or update of simfeedback
-* Check Simfeedback.xml -> Com Port of your Arduino 
+* Check Simfeedback.xml -> change value to the correct Arduino com Port (check device manager)
 * First Section ... 
 ``</MotorList>
       <comPort>1</comPort>
