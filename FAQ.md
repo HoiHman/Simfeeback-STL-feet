@@ -10,6 +10,6 @@
 
 ## Nothing moves after first installation or update of simfeedback 
 Check Simfeedback.xml -> change value comPort to the correct Arduino comPort
-
+![Com Port](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/Comport.png)
 
 
