@@ -1,8 +1,9 @@
 === Flashing the Arduino ===
 #Open Simfeedback
 #Goto Setup Tab on top
-#Choose correct com Port (device manager) and click Datei auswählen
+#Choose correct com Port and click Datei auswählen
 #Browse to the hex file you wanna upload (for example ACServo_Leonardo_00_07_05.hex) and press upload
+
 
 === Nothing moves after first installation or update of simfeedback ===
 #Check Simfeedback.xml -> change value comPort to the correct Arduino comPort (check device manager)
