@@ -4,8 +4,8 @@
 1. [How to flash the Arduino](https://github.com/SimFeedback/SimFeedback-AC-Servo/wiki/FAQ#flashing-the-arduino)
 
 > **WICHTIG / IMPORTANT**  
-Since we have no centering through search and get alarms its necessary that the actuators are "in"
-Step on every corner and then they will roll down if you are not sure if they are complete in.
+Since we have no centering through search and get alarms its necessary that the actuators are complete down.
+Step on every corner and then they will roll down if you are not sure if they are.
  
 ***
 
