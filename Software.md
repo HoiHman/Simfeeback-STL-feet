@@ -1,15 +1,30 @@
 ## Getting started
-First you have to flash a supplied Hex file to the Arduino which can communicate with the software 
-[How to flash the Arduino](https://github.com/SimFeedback/SimFeedback-AC-Servo/wiki/FAQ#flashing-the-arduino)
+1. First you have to flash a supplied Hex file to the Arduino which can communicate with the software 
 
+1. [How to flash the Arduino](https://github.com/SimFeedback/SimFeedback-AC-Servo/wiki/FAQ#flashing-the-arduino)
+
+> **WICHTIG / IMPORTANT**  
+Since we have no centering through search and get alarms its necessary that the actuators are "in"
+Step on every corner and then they will roll down if you are not sure if they are complete in.
+ 
 ***
 
-There are three tabs on top, we start with the 
-
-# Profiles
-
 ## Actions 
+![Actions](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/Actions.png)
+**_START/ STOP Button_**
 
+If you have read and finished the getting started things you should be able to startup the actuators. Press the START button and they will goto center position if everything is good :) 
+
+The Button changes to STOP, wait some seconds and press stop, the actuators are going to park position. This should be really soft for the last mm :)
+
+**_Realtime Data_**
+
+**_Replay_**
+
+**_Log Data_**
+
+
+***
 
 
 ## Profiles
