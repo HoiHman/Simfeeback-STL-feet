@@ -4,9 +4,11 @@
 3. Choose correct com port and click Datei auswählen
 4. Browse to the hex file which you want flash (for example ACServo_Leonardo_00_07_05.hex) and press upload
 
+![Flashing Arduino](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/Flashard.png)
 
 
-=== Nothing moves after first installation or update of simfeedback ===
+
+## Nothing moves after first installation or update of simfeedback 
 #Check Simfeedback.xml -> change value comPort to the correct Arduino comPort (check device manager)
  </MotorList>
       <comPort>1</comPort>
