@@ -6,14 +6,14 @@
 
 ![Flashing Arduino](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/Flashard.png)
 
-
+***
 
 ## Nothing moves after first installation or update of simfeedback 
-#Check Simfeedback.xml -> change value comPort to the correct Arduino comPort (check device manager)
- </MotorList>
+Check Simfeedback.xml -> change value comPort to the correct Arduino comPort
+    </MotorList>
       <comPort>1</comPort>
       <baudRate>460800</baudRate>
       <id>1</id>
       <type>4DC</type>
- </MotionControllerConfigData>
+    </MotionControllerConfigData>
 
