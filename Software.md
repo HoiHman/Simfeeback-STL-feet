@@ -5,10 +5,11 @@ First you have to flash a supplied Hex file to the Arduino which can communicate
 ***
 
 ## Profiles
-Every supported game can have one or more profiles which define how the Actuators should move. 
-You can have a profile for every Car/Road combination which you like.
-Right click and you can copy an existing one, delete or activate it.
-Left Click on it and you can rename it 
+* Every supported game can have one or more profiles which define how the Actuators should move. 
+* You can have a profile for every Car/Road combination which you like.
+* Right click and you can copy an existing one, delete or activate it.
+* Left Click on it and you can rename it 
+* ![Profiles :)](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/Profile.png)
 
 ***
 
