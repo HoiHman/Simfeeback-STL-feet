@@ -35,14 +35,14 @@ _**Example Effect and description of Values**_
 * Min Position - Percentage used of the way the actuator can move (-100) / Heave uses ~22 Percent of the Actuator if the value -3 is reached    
 * Max Position - Percentage used of the way the actuator can move (100) / Heave uses ~22 Percent of the Actuator if the value 3 is reached
 * Position Interval - Interval which Position is divided (20)
-* Min. Power - 
-* Max. Power
-* Power Interval
-* Enabled
-* Mute
-* Smoothing
-* Controller ID.
-* Intensity
+* Min. Power - Range of values given by the simulation. Here 0 to -3g
+* Max. Power - Range of values given by the simulation. Here 0 to 3g
+* Power Interval - Interval which Position is divided (0,25)
+* Enabled - if true -> then enabled 
+* Mute - nevermind
+* Smoothing - Value given by the smoothing Slider
+* Controller ID. - Controller # used 
+* Intensity - Value give by the Intesity Slider
 
 ## **Add Effect**
 Right click on your profile and choose Add Effect -> Choose the one you like ..
