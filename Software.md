@@ -4,6 +4,14 @@ First you have to flash a supplied Hex file to the Arduino which can communicate
 
 ***
 
+There are three tabs on top, we start with the 
+
+# Profiles
+
+## Actions 
+
+
+
 ## Profiles
 * Every supported game can have one or more profiles which define how the Actuators should move. 
 * You can have a profile for every Car/Road combination which you like.
