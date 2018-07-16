@@ -17,6 +17,8 @@ If you have read and finished the getting started things you should be able to s
 
 The Button changes to STOP, wait some seconds and press stop, the actuators are going to park position. This should be really soft for the last mm :)
 
+Start the game you like, activate your profile of it (see below) and press the start button. Go on track and it should move
+
 ### **_Realtime Data_**
 
 Activate it and you will see the live telemetry values in every enabled Effect. I prefer one by one effect ..
