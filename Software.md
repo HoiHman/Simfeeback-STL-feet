@@ -1,4 +1,13 @@
-## Getting started
+## Setup
+
+### **_Tactile_**
+* Setup the Soundcard were youre shaker is attached. At the moment we support only one. 
+* Press play and move the sliders, you will hear if you have chosen the right one.
+* Mount it under your seat or direct to the seat or whereever you think it suits your needs :)
+
+![Setup Shaker](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/SetupShaker.png)
+
+### **_Arduino_**
 1. First you have to flash a supplied Hex file to the Arduino which can communicate with the software 
 
 1. [How to flash the Arduino](https://github.com/SimFeedback/SimFeedback-AC-Servo/wiki/FAQ#flashing-the-arduino)
@@ -13,7 +22,7 @@ Step on every corner and then they will roll down if you are not sure if they ar
 ![Actions](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/Actions.png)
 ### **_START/ STOP Button_**
 
-If you have read and finished the getting started things you should be able to startup the actuators. Press the START button and they will goto center position if everything is good :) 
+If you have read and finished the setup things you should be able to startup the actuators. Press the START button and they will goto center position if everything is good :) 
 
 The Button changes to STOP, wait some seconds and press stop, the actuators are going to park position. This should be really soft for the last mm :)
 
