@@ -1,4 +1,10 @@
-## Setup
+***
+> **WICHTIG / IMPORTANT**  
+Since we have no centering through search and get alarms its necessary that the actuators are complete down.
+Step on every corner and then they will roll down if you are not sure if they are.
+***
+
+## Getting started / Setup
 
 ### **_Tactile_**
 * Setup the Soundcard were youre shaker is attached. At the moment we support only one. 
@@ -9,8 +15,11 @@
 
 ### **_Arduino_**
 1. First you have to flash a supplied Hex file to the Arduino which can communicate with the software 
+2. Choose correct com port and click Datei auswählen
+3. Browse to the hex file which you want flash (for example ACServo_Leonardo_00_07_05.hex) and press upload
 
-1. [How to flash the Arduino](https://github.com/SimFeedback/SimFeedback-AC-Servo/wiki/FAQ#flashing-the-arduino)
+![Flashing Arduino](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/Flashard.png)
+
 
 > **WICHTIG / IMPORTANT**  
 Since we have no centering through search and get alarms its necessary that the actuators are complete down.
