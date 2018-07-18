@@ -7,7 +7,7 @@ Step on every corner and then they will roll down if you are not sure if they ar
 ## Getting started / Setup
 
 ### **_Tactile_**
-* Setup the Soundcard were youre shaker is attached. At the moment we support only one. 
+* Setup the Soundcard were the shaker is attached. At the moment we support only one. 
 * Press play and move the sliders, you will hear if you have chosen the right one.
 * Mount it under your seat or direct to the seat or whereever you think it suits your needs :)
 
