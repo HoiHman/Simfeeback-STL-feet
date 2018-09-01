@@ -15,10 +15,11 @@ Step on every corner and then they will roll down if you are not sure if they ar
 
 ### **_Arduino_**
 1. First you have to flash a supplied Hex file to the Arduino which can communicate with the software 
-2. Choose correct com port and click Datei auswählen
-3. Browse to the hex file which you want flash (for example ACServo_Leonardo_00_07_05.hex) and press upload
+2. Choose correct com port and click Firmware
+3. Browse to the hex file which you want flash (for example ACServo_Leonardo_00_08_02.hex in the Firmware Folder) and press upload
 
 ![Flashing Arduino](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/Flashard.png)
+
 
 
 > **WICHTIG / IMPORTANT**  
