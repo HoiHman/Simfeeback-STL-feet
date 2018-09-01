@@ -33,6 +33,8 @@ If you have read and finished the setup things you should be able to startup the
 
 The Button changes to STOP, wait some seconds and press stop, the actuators are going to the park position. This should be really soft for the last mm :)
 
+![Start](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/Start.png)
+
 Start the game you like, activate your profile of it (see below) and press the start button. Go on track and it should move
 
 ## Profiles
