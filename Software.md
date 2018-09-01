@@ -8,7 +8,7 @@ Step on every corner and then they will roll down if you are not sure if they ar
 
 ### **_Tactile/Shaker_**
 * Setup the Soundcard were the shaker is attached. At the moment we support only one. 
-* Press play and move the sliders, you will hear if you have chosen the right one.
+* Press play and move the sliders, you will hear/notice if you have chosen the right one.
 * Mount it under your seat or direct to the seat or whereever you think it suits your needs :)
 
 ![Setup Shaker](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/SetupShaker.png)
@@ -31,7 +31,7 @@ Step on every corner and then they will roll down if you are not sure if they ar
 
 If you have read and finished the setup things you should be able to startup the actuators. Press the START button and they will go to center position if everything is good :) 
 
-The Button changes to STOP, wait some seconds and press stop, the actuators are going to the park position. This should be really soft for the last mm :)
+The START button changes to STOP. Wait some seconds and press stop, the actuators should go to the park position. This should be really soft for the last mm :) If this works you should be ready to go.
 
 Activate your profile (right mouse click) and press the start button. Start your game,go on track and it should move
 
