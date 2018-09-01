@@ -43,7 +43,7 @@ Activate your profile (right mouse click) and press the start button. Start your
 * You can have a profile for every Car/Road combination which you like.
 * Right click and you can copy an existing one, delete or activate it.
 * Left Click on it and you can rename it 
-* ![Profiles :)](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/Profile.png)
+
 
 ***
 
