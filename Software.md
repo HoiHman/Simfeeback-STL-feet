@@ -25,30 +25,15 @@ Step on every corner and then they will roll down if you are not sure if they ar
 
 ***
 
-## Actions 
-![Actions](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/Actions.png)
+## Profiles Tab
+
 ### **_START/ STOP Button_**
 
-If you have read and finished the setup things you should be able to startup the actuators. Press the START button and they will goto center position if everything is good :) 
+If you have read and finished the setup things you should be able to startup the actuators. Press the START button and they will go to center position if everything is good :) 
 
-The Button changes to STOP, wait some seconds and press stop, the actuators are going to park position. This should be really soft for the last mm :)
+The Button changes to STOP, wait some seconds and press stop, the actuators are going to the park position. This should be really soft for the last mm :)
 
 Start the game you like, activate your profile of it (see below) and press the start button. Go on track and it should move
-
-### **_Realtime Data_**
-
-Activate it and you will see the live telemetry values in every enabled Effect. I prefer one by one effect ..
-![](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/Realtime.png)
-
-
-### **_Replay_**
-* Press Replay and search your recorded session File, press replay .. It should start moving your rig as recorded :) 
-
-### **_Log Data_**
-* Activate it and the motion of the session you are driving will be saved in the log folder.
-
-***
-
 
 ## Profiles
 * Every supported game can have one or more profiles which define how the Actuators should move. 
@@ -92,4 +77,20 @@ _**Example Effect and description of Values**_
 
 ## **Add Effect**
 Right click on your profile and choose Add Effect -> Choose the one you like ..
+
+
+### **_Realtime Data_**
+
+Activate it and you will see the live telemetry values in every enabled Effect. I prefer one by one effect ..
+![](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/Realtime.png)
+
+
+### **_Replay_**
+* Press Replay and search your recorded session File, press replay .. It should start moving your rig as recorded :) 
+
+### **_Log Data_**
+* Activate it and the motion of the session you are driving will be saved in the log folder.
+
+***
+
 
