@@ -47,12 +47,12 @@ Activate your profile (right mouse click) and press the start button. Start your
 
 ## Effects
 We created some Profiles with the most common effects for the easy start to your motion experience.
-1 Intensity: increase / decrease the intensity of all the incoming gamedata, results in more or less motion
-2 Smoothing: increase / decrease the smoothness of all the incoming gamedata, results in smoother or rougher motion
-3 Enabled: Enables /disables the effect
-4 Smoothing: increase / decrease the smoothness for the incoming gamedata of that effect, results in smoother or rougher motion
-5 Intensity: increase / decrease the intensity for the incoming gamedata of that effect, results in more or less motion
-6 Reset intensity
+*1 Intensity: increase / decrease the intensity of all the incoming gamedata, results in more or less motion
+*2 Smoothing: increase / decrease the smoothness of all the incoming gamedata, results in smoother or rougher motion
+*3 Enabled: Enables /disables the effect
+*4 Smoothing: increase / decrease the smoothness for the incoming gamedata of that effect, results in smoother or rougher motion
+*5 Intensity: increase / decrease the intensity for the incoming gamedata of that effect, results in more or less motion
+*6 Reset intensity
 
 ![Effects](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/effects.png)
 
