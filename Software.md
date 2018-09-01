@@ -6,26 +6,23 @@ Step on every corner and then they will roll down if you are not sure if they ar
 
 ## Getting started / Setup
 
-### **_Tactile_**
+### **_Tactile/Shaker_**
 * Setup the Soundcard were the shaker is attached. At the moment we support only one. 
 * Press play and move the sliders, you will hear if you have chosen the right one.
 * Mount it under your seat or direct to the seat or whereever you think it suits your needs :)
 
 ![Setup Shaker](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/SetupShaker.png)
 
-### **_Arduino_**
+### **_Flashing the Arduino_**
 1. First you have to flash a supplied Hex file to the Arduino which can communicate with the software 
 2. Choose correct com port and click Firmware
 3. Browse to the hex file which you want flash (for example ACServo_Leonardo_00_08_02.hex in the Firmware Folder) and press upload
 
 ![Flashing Arduino](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/Flashard.png)
 
+### **_Choose the com port for your Arduino_**
+![ComPort](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/ComPort.png)
 
-
-> **WICHTIG / IMPORTANT**  
-Since we have no centering through search and get alarms its necessary that the actuators are complete down.
-Step on every corner and then they will roll down if you are not sure if they are.
- 
 ***
 
 ## Actions 
