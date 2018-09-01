@@ -35,19 +35,27 @@ The START button changes to STOP. Wait some seconds and press stop, the actuator
 
 Activate your profile (right mouse click) and press the start button. Start your game,go on track and it should move
 
-![Start](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/Start.png)
-
-
 ## Profiles
 * Every supported game can have one or more profiles which define how the Actuators should move. 
 * You can have a profile for every Car/Road combination which you like.
 * Right click and you can copy an existing one, delete or activate it.
 * Left Click on it and you can rename it 
 
+![Start](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/Start.png)
 
 ***
 
 ## Effects
+We created some Profiles with the most common effects for the easy start to your motion experience.
+1 Intensity: increase / decrease the intensity of all the incoming gamedata, results in more or less motion
+2 Smoothing: increase / decrease the smoothness of all the incoming gamedata, results in smoother or rougher motion
+3 Enabled: Enables /disables the effect
+4 Smoothing: increase / decrease the smoothness for the incoming gamedata of that effect, results in smoother or rougher motion
+5 Intensity: increase / decrease the intensity for the incoming gamedata of that effect, results in more or less motion
+6 Reset intensity
+
+![Effects](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/effects.png)
+
 _**Tactile Effect**_ sends Data to a Shaker or buttkicker
 
 _**Heave Effect**_ All four Actuators go synced up or down at the same time
