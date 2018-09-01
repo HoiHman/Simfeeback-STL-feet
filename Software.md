@@ -56,6 +56,9 @@ We created some Profiles with the most common effects for the easy start to your
 
 ![Effects](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/effects.png)
 
+
+***
+
 _**Tactile Effect**_ sends Data to a Shaker or buttkicker
 
 _**Heave Effect**_ All four Actuators go synced up or down at the same time
@@ -105,3 +108,5 @@ Activate it and you will see the live telemetry values in every enabled Effect. 
 ***
 
 
+
+***
