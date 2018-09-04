@@ -9,7 +9,7 @@ SimFeedback supports the following games:
 
 ### iRacing 
 
-Open app.ini located in C:\Users\USERNAME\Documents\iRacing and edit.
+Edit app.ini in C:\Users\USERNAME\Documents\iRacing.
 
 
 `irsdkEnableMem=1                        	; enable memory based telemetry`
