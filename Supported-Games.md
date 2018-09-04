@@ -13,6 +13,7 @@ Open app.ini located in C:\Users\USERNAME\Documents\iRacing and edit.
 
 `
 irsdkEnableMem=1                        	; enable memory based telemetry
+
 irsdkLog360Hz=1                         	; Log some telemetry at 360 Hz rather than at 60 Hz
 `
 
