@@ -24,7 +24,7 @@ Select Shared Memory "Project CARS 2"
 
 UDP-Frequency "9"
 
-![Project Cars Setup 1](../Docs/Project CARS 2-1.png)
+![Project Cars Setup 1](../tree/master/Docs/Project CARS 2-1.png)
 
 
 ### Dirt Rally
