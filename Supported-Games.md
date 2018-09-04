@@ -16,6 +16,13 @@ Edit app.ini in C:\Users\USERNAME\Documents\iRacing.
 
 `irsdkLog360Hz=1                         	; Log some telemetry at 360 Hz rather than at 60 Hz`
 
+### Project Cars
+
+Go to game Settings -> System
+Select Shared Memory "Project CARS 2"
+UDP-Frequency "9"
+
+
 
 ### Dirt Rally
 Edit hardware_settings_config.xml  in C:\Users\USERNAME\Documents\my games\DiRT Rally\hardwaresettings.
