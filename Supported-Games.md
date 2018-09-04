@@ -5,9 +5,9 @@ SimFeedback supports the following games:
 * Project Cars 1 and 2
 * Dirt Rally
 
-# Setup Instructions
+## Setup Instructions
 
-## iRacing 
+### iRacing 
 
 Open app.ini located in C:\Users\USERNAME\Documents\iRacing and edit.
 
@@ -17,3 +17,4 @@ Open app.ini located in C:\Users\USERNAME\Documents\iRacing and edit.
 `irsdkLog360Hz=1                         	; Log some telemetry at 360 Hz rather than at 60 Hz`
 
 
+### 
