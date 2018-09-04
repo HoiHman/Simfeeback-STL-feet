@@ -5,7 +5,7 @@ SimFeedback supports the following games:
 * Project Cars 1 and 2
 * Dirt Rally
 
-## Setup Instructions
+## Game Setup Instructions
 
 ### iRacing 
 
@@ -19,9 +19,12 @@ Edit app.ini in C:\Users\USERNAME\Documents\iRacing.
 ### Project Cars
 
 Go to game Settings -> System
+
 Select Shared Memory "Project CARS 2"
+
 UDP-Frequency "9"
 
+![Project Cars Setup 1](../Docs/Project CARS 2-1.png)
 
 
 ### Dirt Rally
