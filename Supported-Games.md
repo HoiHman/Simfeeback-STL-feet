@@ -26,6 +26,8 @@ UDP-Frequency "9"
 
 ![Project Cars Setup 1](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/Project%20CARS%202-1.png)
 
+![Project Cars Setup 1](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/Project%20CARS%202-2.png)
+
 
 ### Dirt Rally
 Edit hardware_settings_config.xml  in C:\Users\USERNAME\Documents\my games\DiRT Rally\hardwaresettings.
