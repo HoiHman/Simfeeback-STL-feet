@@ -17,4 +17,7 @@ Open app.ini located in C:\Users\USERNAME\Documents\iRacing and edit.
 `irsdkLog360Hz=1                         	; Log some telemetry at 360 Hz rather than at 60 Hz`
 
 
-### 
+### Dirt Rally
+Edit hardware_settings_config.xml  in C:\Users\USERNAME\Documents\my games\DiRT Rally\hardwaresettings.
+
+`<udp enabled="true" extradata="3" ip="127.0.0.1" port="20777" delay="1" />`
