@@ -33,3 +33,17 @@ Check the 3D-Printing Instruction (TODO: Lin to the 3D-Printing instruction)
 Start printing! 3D-Printing all necessary parts will take ~2 weeks using one printer!
 
 Start to build the electronics (TODO: Link to the Electronics page)
+
+Test the motors by connecting them to the Servo Driver (TODO link to “Test Motor with Servo Driver only”)
+
+Install the Software (TODO: Link to “SimFeedback Installation and first Start”)
+
+Learn how to activate a Profile for your gamer and to start the Motion output.
+
+Test the motor with the Servo driver attached to the Motion Controller (do not attach the motor to the actuator!).
+
+Assemble the Actuator (TODO link to “Actuator -> Build Instructions”)
+
+Assemble the Actuators to your rig.
+
+Go racing and have fun!
