@@ -18,7 +18,7 @@ Some of the data will be used to give you a one by one impression like Pitch or 
 
 This “Motion Cues” will be send as position commands to the “Motion Controller”.
 
-The “Motion controller” is a micro controller (Arduino Leonardo) that will take care of synchronization of all motors and control the “Servo Drivers”.
+The “Motion controller” is a micro controller (Arduino Leonardo) that will take care of starting, stopping, position tracking and synchronization of all motors to control the “Servo Drivers”.
 
 Finally, the “Servo Driver” will drive the motor.
 
