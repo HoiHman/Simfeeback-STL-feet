@@ -13,7 +13,7 @@ P51 = 1200 (3000) - Max RPM, start slow!
 // Step Input Multiplier
 P98 = 20 Puls Multiplikator
 
-P109 = 1 smoothing, 1=fixed smoothing, s-Shaped smoothing s. P111-P112
+P109 = 1 smoothing, 1=fixed smoothing, 2=s-Shaped smoothing
 P110 = 30 Smoothing Filter Time 
 
 P113 = 20% Feedforward
