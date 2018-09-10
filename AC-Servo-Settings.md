@@ -4,7 +4,7 @@ Get familiar with the control schema (Arrows, MOD, SET).
 
 Push MOD until you see Pn000. This is the parameter mode.
 
-Change and control these settings on all motors:
+Change and check these settings on all motors:
 
 `P8 = 300 `
 
