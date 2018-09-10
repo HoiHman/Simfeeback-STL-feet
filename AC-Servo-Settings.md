@@ -14,14 +14,14 @@ Change and check these settings on all motors:
 
 // Step Input Multiplier
 
-`P98 = 20 Puls Multiplikator`
+`P98 = 20   - Puls Multiplikator`
 
-`P109 = 1 smoothing, 1=fixed smoothing, 2=s-Shaped smoothing`
+`P109 = 1   - smoothing, 1=fixed smoothing, 2=s-Shaped smoothing`
 
-`P110 = 30 Smoothing Filter Time `
+`P110 = 30  - Smoothing Filter Time `
 
-`P113 = 20% Feedforward`
+`P113 = 20  - Feedforward %`
 
-`P114 = 10  Feedforward Fitler Time`
+`P114 = 10  - Feedforward Filter Time (ms)`
 
-`P115 = 100% (100) - Gain`
+`P115 = 100 - Gain %`
