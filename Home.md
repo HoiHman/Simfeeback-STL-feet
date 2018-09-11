@@ -6,7 +6,7 @@ SimFeedback is a PC software, that will receive telemetry data from Racing games
 
 In this Version, motion commands will be send to a mirco controller (Arduino based) that will control closed loop AC Servos.
 
-We will show you how to build the DIY actuators (name still missing), the Electronics, the Software and get all of this up and running.
+We will show you how to build the **SFX-100 DIY actuators**, the Electronics, the Software and get all of this up and running.
 
 [![SimFeedback in motion](https://img.youtube.com/vi/oKyzBDKgwR0/0.jpg)](https://www.youtube.com/watch?v=oKyzBDKgwR0)
 
