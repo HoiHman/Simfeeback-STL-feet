@@ -1,3 +1,1 @@
-Here are the STL files of the actuator.
-
-[STL](../tree/master/STL)
+[Here are the STL files of the actuator.](../tree/master/STL)
