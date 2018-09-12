@@ -28,7 +28,7 @@ You need to get all the items listed on our Shopping List (TODO: link to shoppin
 
 Next get the STL files from the repo (TODO: Link to STL Files)
 
-Check the 3D-Printing Instruction <3D-Printing> (TODO: Lin to the 3D-Printing instruction)
+Check the [3D-Printing Instruction](./3D-Printing)
 
 Start printing! 3D-Printing all necessary parts will take ~2 weeks using one printer!
 
