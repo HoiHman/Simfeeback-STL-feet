@@ -4,6 +4,9 @@ SimFeedback supports the following games:
 * Assetto Corsa
 * Project Cars 1 and 2
 * Dirt Rally
+* more to come ...
+
+Btw do you know, you can write your own [TelemetryProvider](./TelemetryProvider) for any game.
 
 ## Game Setup Instructions
 
