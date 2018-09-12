@@ -42,7 +42,7 @@ Learn how to activate a Profile for your game and to start the Motion output.
 
 Test the motor with the Servo driver attached to the Motion Controller (do not attach the motor to the actuator!).
 
-Assemble the Actuator (TODO link to “Actuator -> Build Instructions”)
+Assemble the [Actuator](./Actuator)
 
 Assemble the Actuators to your rig.
 
