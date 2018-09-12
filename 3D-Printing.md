@@ -1,5 +1,5 @@
 ## STL Files
-* [Here are STL files](./STL-Files)
+* [Here are the STL files](./STL-Files)
 
 ## Slicer Settings
 * We all used Simplify 3d to print our stuff. All the parts took about 2 weeks to print, so start with them while waiting for all the ordered parts.
