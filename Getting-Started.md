@@ -38,7 +38,7 @@ Test the motors by connecting them to the Servo Driver (TODO link to “Test Mot
 
 Install the Software (TODO: Link to “SimFeedback Installation and first Start”)
 
-Learn how to activate a Profile for your gamer and to start the Motion output.
+Learn how to activate a Profile for your game and to start the Motion output.
 
 Test the motor with the Servo driver attached to the Motion Controller (do not attach the motor to the actuator!).
 
