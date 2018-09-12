@@ -24,7 +24,7 @@ Finally, the “Servo Driver” will drive the motor.
 
 ## First things first
 
-You need to get all the items listed on our Shopping List (TODO: link to shopping list)
+You need to get all the items listed on our [Shopping List](./Shopping-List)
 
 Next get the [STL files](./STL-Files) from the repo
 
