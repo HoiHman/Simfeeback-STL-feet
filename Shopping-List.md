@@ -1,5 +1,8 @@
 A list of all parts required to build the actuator.
 
+_Our team is located in Germany, so most of the links point to german websites._
+_If you are from another country and found a supplier in your country, please get in contact with us._
+
 _Supplier and URL are only for better definition and are only examples_
 
 | Item | Details | Quantity | Supplier | URL |
@@ -15,7 +18,7 @@ _Supplier and URL are only for better definition and are only examples_
 | D-Sub cable | 25 pol / plug-plug | 4 | Reichelt | https://www.reichelt.de/d-sub-kabel-1-1-25-pol-stecker-stecker-1-8-m-2-0-m-ak-4010-p3997.html |
 | D-Sub breakoutboard |  | 4 | Amazon | https://www.amazon.de/dp/B01N5CBPQE |
 | Arduino Leonardo |  | 1 | Amazon  | https://www.amazon.de/dp/B008A36R2Y |
-| cables | arduiono wiring | 1 | Amazon  | https://www.amazon.de/dp/B078RKZ745 |
+| cables | Arduino wiring | 1 | Amazon  | https://www.amazon.de/dp/B078RKZ745 |
 | AC servo motor | type 90ST-M02430 220V 750W | 4 | Aliexpress | https://de.aliexpress.com/store/product/90ST-M02430-220-v-750-watt-AC-Servo-motor-3000-rpm-2-4-N-M-0/3223052_32844070107.html |
 | breadboard |  | 1 | Amazon | https://www.amazon.de/SODIAL-Steckbrett-Breadboard-Experimentierboard-Steckplatine/dp/B00JGFDKBQ |
 | emergency stop |  | 1 | Amazon | https://www.amazon.de/dp/B06WVRV84B |
