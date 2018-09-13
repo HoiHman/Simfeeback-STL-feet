@@ -24,3 +24,5 @@ We will show you how to build the **SFX-100 DIY actuators**, the Electronics, th
 
 
 ## [Let's get started](./Getting-Started)
+
+![](https://github.com/SimFeedback/SimFeedback-AC-Servo/raw/master/Docs/21_assembly.jpg)
