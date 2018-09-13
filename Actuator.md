@@ -113,8 +113,8 @@ do not remove the ball nut from the ball screw at any point!
 
 ### 6) attach servo motor
 
-- mount the shaft coupling to the ball screw
-- position the coupling roughly to the fixed bearing top surface
+- push the coupling onto the ball screw shaft
+- position the coupling roughly to the fixed bearing mount top surface
 - tighten the ball screw side of the coupling
 
 ![](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/17_coupling.jpg)
