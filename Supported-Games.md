@@ -1,7 +1,8 @@
 SimFeedback supports the following games:
 
-* iRacing
+* Assetto Corsa Competizione
 * Assetto Corsa
+* iRacing
 * Project Cars 1 and 2
 * Dirt Rally
 * RaceRoom
