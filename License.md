@@ -1,3 +1,5 @@
+Copyright (c) 2018 Rausch IT
+
 This content in this Wiki is not public domain.
 
 All Text, Images and STL-Files are protected by the Attribution-NonCommercial-ShareAlike 4.0 International License.
