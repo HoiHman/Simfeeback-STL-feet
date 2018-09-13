@@ -4,9 +4,15 @@ _Supplier and URL are only for better definition and are only examples_
 
 | Item | Details | Quantity | Supplier | URL |
 |---|---|---|---|---|
-| Alu-Profil Vierkannt 100mm x 100mm x250mm Länge  |  Länge: 250mm Teile Nr. H950N1010 | 4  |  Kinetik | <http://kinetikmsystem.de/profilsystem--konstruktionsprofile-K50-Nut-10/Aluminiumprofil-100x100--Konstruktionsprofil-K50--N10--100x100.html>  |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| aluminium profile _Systemprofil K50_ |  length: 250mm Teile Nr. H950N1010 | 4  |  Kinetik | <http://kinetikmsystem.de/profilsystem--konstruktionsprofile-K50-Nut-10/Aluminiumprofil-100x100--Konstruktionsprofil-K50--N10--100x100.html>  |
+| thread insert  | Teile Nr. H92RH10M8  | 32  | Kinetik   | http://kinetikmsystem.de/Aluprofil-Verbindungstechnik--profilverbindungstechnik--profilverbinder--montageverbinder--gelenke--schnellverbinder--klemmverbinder-/Reduzierhuelse-RH10-M8.html  |
+| slot nut  | K45/K50 (N10)-M8, einschwenkbar | 16+ | Kinetik  |  http://kinetikmsystem.de/DIN--und-Normteile/Nutenstein-K45-K50--N10--M8--einschwenkbar.html |
+| hollow shaft  | diameter = 30mm /length = 270mm/ chamfer (both sides)  | 4  | Smalltec  | https://smalltec.de/de/wellenfuehrungen/praezisionswellen-fixlang/gehaertete-wellen/hohlwellen/Praezisions---Hohlwelle---30mm--C60-oder-100Cr6--Praezisionswelle----gehaertet--geschliffen--Toleranz-h7-1513.html  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
 
 
 ## bolts and washers
