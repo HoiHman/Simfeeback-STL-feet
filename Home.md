@@ -10,7 +10,7 @@ In this Version, motion commands will be send to a mirco controller (Arduino bas
 
 We do use our own made DIY Actuators - SFX-100!
 
-The Design is free for all but for commercial use. See our [license](./License)
+The Design is free for all but for commercial use. See our [license](./License).
 
 We will show you how to build the **SFX-100 DIY actuators**, the Electronics, the Software and get all of this up and running.
 
