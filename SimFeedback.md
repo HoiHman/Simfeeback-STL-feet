@@ -13,6 +13,6 @@ SimFeedback comes as a Zip file. Just extract it to a folder on your local hard 
 
 After extraction run the file remove_blocking.bat as administrator.
 
-![remove_blocking as admin](../blob/master/Docs/01_install.png)
+![remove_blocking as admin](../master/Docs/01_install.png)
 
 This will remove all zone data from the SimFeedback installation folder.
