@@ -23,6 +23,12 @@ from top to bottom:
 
 
 ## Assembly
+### 0) clean the hollow shaft
+
+- the hardened steel hollow shaft is grinded to its precise diameter
+- there are remains of the abrasive material inside the shaft which needs to be cleaned properly
+
+
 ### 1) M8 thread inserts
 
 - let's start with the most tricky part of the hardware assembly
@@ -54,7 +60,7 @@ do not remove the ball nut from the ball screw at any point!
 
 ![](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/04_fixed_bearing.jpg)
 
-- to tighten the fixed bearing nut, clamp the ball screw in a vice
+- to tighten the fixed bearing nut, clamp the ball screw in a vise
 - drop a bit of screw lock on the thread
 - tighten the nut as strong as possible - without the fixed bearing to get stuck
 - use the worm screw to secure the nut
