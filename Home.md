@@ -16,6 +16,8 @@ All parts are of the shelf or 3D-Printed.
 
 The Design is free for all but for commercial use. See our [license](./License).
 
+![License Icon](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)
+
 We will show you how to build the **SFX-100 DIY actuators**, the Electronics, the Software and get all of this up and running.
 
 [![SimFeedback in motion](https://img.youtube.com/vi/oKyzBDKgwR0/0.jpg)](https://www.youtube.com/watch?v=oKyzBDKgwR0)
