@@ -36,7 +36,7 @@ Start to build the [electronics](./Electronics)
 
 Test the motors by connecting them to the Servo Driver (TODO link to “Test Motor with Servo Driver only”)
 
-Install the Software (TODO: Link to “SimFeedback Installation and first Start”)
+Install [SimFeedback](./SimFeedback)
 
 Learn how to activate a Profile for your game and to start the Motion output.
 
