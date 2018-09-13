@@ -1,6 +1,6 @@
-A list of all parts required to build the actuator.
+A list of all parts required to build the SFX-100 Actuator.
 
-_Our team is located in Germany, so most of the links point to german websites._
+_Our team is located in Germany, so most of the links point to German websites._
 _If you are from another country and found a supplier in your country, please get in contact with us._
 
 _Supplier and URL are only for better definition and are only examples_
