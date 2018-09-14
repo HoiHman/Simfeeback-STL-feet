@@ -89,24 +89,3 @@ _**Example Effect and description of Values**_
 * **Controller ID.** - Controller # used 
 * **Intensity** - Value give by the Intesity Slider
 
-## **Add Effect**
-Right click on your profile and choose Add Effect -> Choose the one you like ..
-
-
-### **_Realtime Data_**
-
-Activate it and you will see the live telemetry values in every enabled Effect. I prefer one by one effect ..
-![](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/Realtime.png)
-
-
-### **_Replay_**
-* Press Replay and search your recorded session File, press replay .. It should start moving your rig as recorded :) 
-
-### **_Log Data_**
-* Activate it and the motion of the session you are driving will be saved in the log folder.
-
-***
-
-
-
-***
