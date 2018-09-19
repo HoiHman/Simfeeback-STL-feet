@@ -24,4 +24,5 @@ Motor 4 = Front Left
 
 *all from Riders view
 
-
+## Beta Tester Setups ;)
+![Arduino Wiring](https://github.com/SimFeedback/SimFeedback-AC-Servo/blob/master/Docs/beta-tester-electronics.png)
