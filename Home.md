@@ -22,6 +22,11 @@ We will show you how to build the **SFX-100 DIY actuators**, the Electronics, th
 
 [![SimFeedback in motion](https://img.youtube.com/vi/oKyzBDKgwR0/0.jpg)](https://www.youtube.com/watch?v=oKyzBDKgwR0)
 
+## Video Instructions
+
+[![SimFeedback Instructions Step by Step](https://img.youtube.com/vi/WS5A4x-IcN4/0.jpg)](https://www.youtube.com/watch?v=WS5A4x-IcN4)
+
+German only, use subtitles.
 
 ## [Let's get started](./Getting-Started)
 
