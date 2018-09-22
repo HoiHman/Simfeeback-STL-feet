@@ -19,13 +19,15 @@ _Supplier and URL are only for better definition and are only examples_
 | D-Sub breakoutboard |  | 4 | Amazon | https://www.amazon.de/dp/B01N5CBPQE |
 | Arduino Leonardo |  | 1 | Amazon  | https://www.amazon.de/dp/B008A36R2Y |
 | cables | Arduino wiring | 1 | Amazon  | https://www.amazon.de/dp/B078RKZ745 |
-| AC servo motor | type 90ST-M02430 220V 750W | 4 | Aliexpress | https://de.aliexpress.com/store/product/90ST-M02430-220-v-750-watt-AC-Servo-motor-3000-rpm-2-4-N-M-0/3223052_32844070107.html |
+| AC servo motor *| type 90ST-M02430 220V 750W | 4 | Aliexpress | https://de.aliexpress.com/store/product/90ST-M02430-220-v-750-watt-AC-Servo-motor-3000-rpm-2-4-N-M-0/3223052_32844070107.html |
 | breadboard |  | 1 | Amazon | https://www.amazon.de/SODIAL-Steckbrett-Breadboard-Experimentierboard-Steckplatine/dp/B00JGFDKBQ |
 | emergency stop |  | 1 | Amazon | https://www.amazon.de/dp/B06WVRV84B |
 | O-ring | 23,5 x 30,5 x 3,5mm | 4 | Amazon | all four included in this set: https://www.amazon.de/gp/product/B000B9RKL2 |
 | 3d-printing filament | type PLA | 3 | Amazon | https://www.amazon.de/gp/product/B071DM81ZK/ |
 | floor protector | rubber feet | 4 | Amazon | all four included in this set: https://www.amazon.de/gp/product/B008MVVU4Y |
 
+* Modbus RS-323/485 interface is an option. We do not support this at the moment, but if I would suggest to order this option for future proofness.
+This is the 220v version, if you do have other voltages in your country,  please ask the seller.
 
 ## bolts and washers
 
