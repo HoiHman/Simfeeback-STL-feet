@@ -26,7 +26,8 @@ _Supplier and URL are only for better definition and are only examples_
 | 3d-printing filament | type PLA | 3 | Amazon | https://www.amazon.de/gp/product/B071DM81ZK/ |
 | floor protector | rubber feet | 4 | Amazon | all four included in this set: https://www.amazon.de/gp/product/B008MVVU4Y |
 
-* Modbus RS-323/485 interface is an option. We do not support this at the moment, but if I would suggest to order this option for future proofness.
+*Modbus RS-323/485 interface is an option. We do not support this at the moment, but if I would suggest to order this option for future proofness.
+
 This is the 220v version, if you do have other voltages in your country,  please ask the seller.
 
 ## bolts and washers
